@@ -1,1 +1,1 @@
-<? php include_once("aboutJapan.html"); ?>
+<? php include_once("index.html"); ?>
